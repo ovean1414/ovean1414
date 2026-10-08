@@ -18,23 +18,17 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-class Ovean:
-    name     = "Ovean S"
-    role     = "Data Analyst"
-    location = "Krishnagiri, India 🇮🇳"
-    passion  = "Turning raw data into business intelligence"
-    stack    = ["Python", "MySQL", "Power BI", "Excel"]
-    available_for_hire = True  # ← Hire me!
-```
-
-- 🔍 I specialize in **uncovering patterns** hidden inside complex datasets
-- 📊 I build **interactive dashboards** that help businesses make smarter decisions
-- 🧠 I believe data without context is just noise — I turn it into **strategy**
-- 🚀 Currently building a **5-project analytics portfolio** across 4 domains
-- 💬 Ask me about **SQL, Power BI, Python, Excel** — anything data!
-
 > *"In God we trust. All others must bring data." — W. Edwards Deming*
+
+🔍 &nbsp;I'm a **Data Analyst** based in Krishnagiri, India — passionate about uncovering the stories hidden inside complex datasets.
+
+📊 &nbsp;I design **interactive dashboards** and write **SQL queries** that help businesses stop guessing and start deciding with confidence.
+
+🧠 &nbsp;My approach: clean the data → ask the right questions → deliver insights that **actually matter** to the business.
+
+🚀 &nbsp;Currently building a **5-project analytics portfolio** across Healthcare, Finance, Retail, and Marketing domains.
+
+💼 &nbsp;**Actively seeking Data Analyst opportunities** — let's build something great together!
 
 ---
 
@@ -97,16 +91,6 @@ class Ovean:
 <br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovean1414&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ovean1414&theme=tokyonight&no-frame=true&column=6&margin-w=8)
 
 </div>
 
