@@ -72,7 +72,7 @@
 | # | Project | Domain | Tools | Link |
 |:---:|---------|:-------:|-------|:----:|
 | 🏥 | **Hospital ER Analytics** | Healthcare | Python • MySQL • Power BI • Excel | [View Project](https://github.com/ovean1414/hospital-er-analytics) |
-| 🏦 | **Bank Loan Risk Analysis** | Finance | Python • MySQL • Power BI • Excel | 🔒 Soon |
+| 🏦 | **Bank Loan Risk Analysis** | Finance | MySQL • Power BI | [View Project](https://github.com/ovean1414/bank-loan-risk-analysis) |
 | 🛒 | **Retail Customer Segmentation** | Retail | Python • MySQL • Power BI • Excel | 🔒 Soon |
 | 📱 | **Social Media Campaign Analytics** | Marketing | Python • MySQL • Power BI • Excel | 🔒 Soon |
 | 💰 | **Personal Finance Tracker** | Finance | Python • MySQL • Power BI • Excel | 🔒 Soon |
